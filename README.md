@@ -8,6 +8,6 @@ New Recipes: Refresh each time for a new recipe.
 # Technologies Used:
 HTML5
 CSS3
-JavaScript
+and JavaScript
 
-Here is the link: 
+Here is the link: https://onepower07.github.io/RecipeBook/
