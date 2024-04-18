@@ -5,7 +5,7 @@ Welcome to the Recipe Showcase Web Page repository! This project aims to provide
 Recipe Details: Each recipe page includes detailed information such as ingredients, preparation steps, cooking time, and serving size.
 New Recipes: Refresh each time for a new recipe.
 
-#Technologies Used:
+# Technologies Used:
 HTML5
 CSS3
 JavaScript
